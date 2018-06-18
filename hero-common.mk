@@ -101,4 +101,4 @@ PRODUCT_PACKAGES += \
 
 # call the proprietary setup
 $(call inherit-product, vendor/samsung/hero-common/hero-common-vendor.mk)
-$(call inherit-product, vendor/samsung/hero-bsp/seal-common-vendor.mk)
+$(call inherit-product, vendor/samsung/hero-bsp/hero-bsp-common-vendor.mk)
