@@ -160,7 +160,7 @@ vendor/firmware/setfile_4e6.bin
 vendor/firmware/setfile_4e6_d.bin
 vendor/firmware/setfile_imx260.bin
 vendor/firmware/setfile_imx260_d.bin
-vendor/lib/mediadrm/libwvdrmengine.so
+vendor/lib/mediadrm/libwvdrmengine.so|66ba66d047044f92eb0eada1faf6a5799ded90ab
 vendor/lib/libSEF.so
 vendor/lib64/libSEF.so
 lib/libcsc.so
